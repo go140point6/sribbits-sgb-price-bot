@@ -125,9 +125,9 @@ async function getInitialPrice() {
 
   let ftso = {
     // OracleSwap
-    //address: "0x73E93D9657E6f32203f900fe1BD81179a5bf6Ce4",
+    address: "0x73E93D9657E6f32203f900fe1BD81179a5bf6Ce4",
     // Pangolin
-    address: "0x6591cf4E1CfDDEcB4Aa5946c033596635Ba6FB0F",
+    //address: "0x6591cf4E1CfDDEcB4Aa5946c033596635Ba6FB0F",
     abi: [
       {
               "inputs": [
@@ -209,9 +209,9 @@ async function getPrices() {
 
   let ftso = {
     // OracleSwap
-    //address: "0x73E93D9657E6f32203f900fe1BD81179a5bf6Ce4",
+    address: "0x73E93D9657E6f32203f900fe1BD81179a5bf6Ce4",
     // Pangolin
-    address: "0x6591cf4E1CfDDEcB4Aa5946c033596635Ba6FB0F",
+    //address: "0x6591cf4E1CfDDEcB4Aa5946c033596635Ba6FB0F",
     abi: [
       {
               "inputs": [
